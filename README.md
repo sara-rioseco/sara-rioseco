@@ -10,7 +10,8 @@
 <p>My goal is to be a seasoned full-stack developer in the future, but for now I'm mostly doing Front-End developments and still learning everyday.🌱 </p>
 <p><strong>Spanish 💬</strong> is my native language, but you can also contact me in <strong>English</strong> or <strong>Portuguese</strong>. </p>
 
-
+<h2> My Stats ✨ </h2>
+[![GitHub Streak](https://streak-stats.demolab.com?user=sara-rioseco&theme=dark&hide_border=true)](https://git.io/streak-stats)
 <!--
 **sara-rioseco/sara-rioseco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
