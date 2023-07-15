@@ -11,7 +11,7 @@
 
 <p>One thing I cannot live without, besides <strong>coffee ☕</strong>, it's <strong>singing!</strong> As a matter of fact, I've been singing in choirs for almost 15 years 👩‍🎤 </p> 
 
-<p><strong>Spanish 💬</strong> is my native language, but you can also contact me in <strong>English</strong> or <strong>Portuguese</strong>. You can reach me at sara.rioseco@gmail.com</p>
+<p><strong>Spanish 💬</strong> is my native language, but you can also contact me in <strong>English</strong> or <strong>Portuguese</strong>. You can reach me at [sara.rioseco@gmail.com](mailto:sara.rioseco@gmail.com) 💌</p>
 
 <h2> My Stats ✨ </h2>
 [![GitHub Streak](https://streak-stats.demolab.com?user=sara-rioseco&theme=dark&hide_border=true)](https://git.io/streak-stats)
