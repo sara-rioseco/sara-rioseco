@@ -1,7 +1,7 @@
 <h1 align="center">Sara Rioseco</h1>
 <h4 align="center"> JavaScript Front-End Developer | she/her </h4>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US" target="_blank">LinkedIn</a>
 </p>
 <h2> About me 😊 </h2>
 <p>Hello!✋ My name is Sara Rioseco and I'm 35 years-old. I'm currently living in Santiago, Chile 🇨🇱.</p>
