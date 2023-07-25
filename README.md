@@ -14,7 +14,7 @@
 <p>My goal is to be a <strong>seasoned full-stack developer </strong> 👩‍💻 in the future, but for now I'm mostly doing Front-End developments and still learning everyday.🌱 </p>
 
 
-<p><strong>Something about me:</strong> One thing I cannot live without, besides <strong>coffee ☕</strong>, it's <strong>singing!</strong> As a matter of fact, I've been singing in choirs for almost 15 years 👩‍🎤 </p> 
+<p><strong>Something about me:</strong> one thing I cannot live without, besides <strong>coffee ☕</strong>, it's <strong>singing!</strong> As a matter of fact, I've been singing in choirs for almost 15 years 👩‍🎤 </p> 
 
 
 <p><strong>Spanish 💬</strong> is my native language, but you can also contact me in <strong>English</strong> or <strong>Portuguese</strong>. Reach me at <a href=mailto:sara.rioseco@gmail.com>sara.rioseco@gmail.com</a> 💌</p>
