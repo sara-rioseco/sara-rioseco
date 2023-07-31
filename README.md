@@ -1,4 +1,3 @@
-# HOLA
 <h1 align="center">Sara Rioseco</h1>
 <h4 align="center"> JavaScript Front-End Developer | she/her </h4>
 <p align="center"> 
