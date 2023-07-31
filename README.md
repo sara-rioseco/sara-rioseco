@@ -25,11 +25,11 @@
 
 <h2> My Stats ✨ </h2>
 <div display="inline-block">
+<a href=https://www.codewars.com/users/sara-rioseco/><img alt=code-wars-badge src="https://www.codewars.com/users/sara-rioseco/badges/small"></a></br>
 <a href=https://github-profile-summary-cards.vercel.app><img alt=profile-stats-badge src="https://github-readme-stats.vercel.app/api?username=sara-rioseco&hide=stars&show=reviews&show_icons=true&theme=tokyonight" /></a>
 <a href=https://git.io/streak-stats><img alt=stats-badge src="https://streak-stats.demolab.com?user=sara-rioseco&theme=tokyonight" /></a>
-<a href=https://github-profile-summary-cards.vercel.app><img alt=profile-summary-badge src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara-rioseco&theme=tokyonight"/></a>
-<a href=https://github-readme-stats.vercel.app><img alt=github-readme-stats src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-rioseco&theme=tokyonight" /></a>
-<a href=https://www.codewars.com/users/sara-rioseco/><img alt=code-wars-badge src=https://www.codewars.com/users/sara-rioseco/badges/large></a>
+<!-- <a href=https://github-profile-summary-cards.vercel.app><img alt=profile-summary-badge src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara-rioseco&theme=tokyonight"/></a>
+<a href=https://github-readme-stats.vercel.app><img alt=github-readme-stats src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-rioseco&theme=tokyonight" /></a>-->
 <a href=https://github-profile-trophy.vercel.app/><img alt=profile-trophy src="https://github-profile-trophy.vercel.app/?username=sara-rioseco&theme=tokyonight"/></a>
 </div>
 <!--
