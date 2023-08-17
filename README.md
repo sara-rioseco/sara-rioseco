@@ -6,7 +6,7 @@
 </p>
 <h2> About me 😊 </h2>
 <p>Hello!✋ My name is <strong>Sara Rioseco</strong> and I'm 35 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
-<p>I used to be a translator 📖, but those times are over and gone. Now I'm doing something I'm more passionate about 🔥, and yes, you guessed it right: it's <strong>Web Developing!</strong> 💻</p>
+<p>I used to be a translator 📖, but those days are over and gone. Now I'm doing something I'm more passionate about 🔥, and yes, you guessed it right: it's <strong>Web Developing!</strong> 💻</p>
 <p>It was in late 2022 when I started this path and, since then, I've been studying 👩‍🎓 and doing some very fun projects 🚀, using apps, technologies, languages, frameworks and libraries such as:
   
 <div display="flex" align="center">
