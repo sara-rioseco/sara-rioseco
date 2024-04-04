@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US" target="_blank" rel="noreferrer noopener">LinkedIn</a>
 </p>
 <h2> About me 😊 </h2>
-<p>Hello!✋ My name is <strong>Sara Rioseco</strong> and I'm 35 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
+<p>Hello!✋ My name is <strong>Sara</strong> and I'm 35 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
 <p>I used to be a translator 📖, but those days are over and gone. Now I'm doing something I'm more passionate about 🔥, and yes, you guessed it right: it's <strong>Web Developing!</strong> 💻</p>
 <p>It was in late 2022 when I started this path and, since then, I've been studying 👩‍🎓 and doing some very fun projects 🚀, using apps, technologies, languages, frameworks and libraries such as:
   
@@ -25,11 +25,12 @@
 
 <h2> My Stats ✨ </h2>
 <div display="inline-block">
-<a href=https://www.codewars.com/users/sara-rioseco/><img alt=code-wars-badge src="https://www.codewars.com/users/sara-rioseco/badges/small"></a></br>
+<!-- <a href=https://www.codewars.com/users/sara-rioseco/><img alt=code-wars-badge src="https://www.codewars.com/users/sara-rioseco/badges/small"></a></br> -->
+<a href=https://github-readme-stats.vercel.app><img alt=github-readme-stats src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-rioseco&langs_count=8&layout=compact&theme=tokyonight" /></a>
 <a href=https://github-profile-summary-cards.vercel.app><img alt=profile-stats-badge src="https://github-readme-stats.vercel.app/api?username=sara-rioseco&hide=stars&show=reviews&show_icons=true&theme=tokyonight" /></a>
-<a href=https://git.io/streak-stats><img alt=stats-badge src="https://streak-stats.demolab.com?user=sara-rioseco&theme=tokyonight" /></a>
+<!-- <a href=https://git.io/streak-stats><img alt=stats-badge src="https://streak-stats.demolab.com?user=sara-rioseco&theme=tokyonight" /></a> -->
 <!-- <a href=https://github-profile-summary-cards.vercel.app><img alt=profile-summary-badge src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sara-rioseco&theme=tokyonight"/></a>
-<a href=https://github-readme-stats.vercel.app><img alt=github-readme-stats src="https://github-readme-stats.vercel.app/api/top-langs/?username=sara-rioseco&theme=tokyonight" /></a>-->
+ -->
 <a href=https://github-profile-trophy.vercel.app/><img alt=profile-trophy src="https://github-profile-trophy.vercel.app/?username=sara-rioseco&theme=tokyonight"/></a>
 </div>
 <!--
