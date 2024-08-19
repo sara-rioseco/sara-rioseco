@@ -1,11 +1,12 @@
 <h1 align="center">Sara Rioseco</h1>
-<h4 align="center"> JavaScript Front-End Developer | she/her </h4>
-<p align="center"> 
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsara-rioseco&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></br>
-<a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US" target="_blank" rel="noreferrer noopener">LinkedIn</a>
-</p>
+<h4 align="center"> Fullstack Developer | she/her | 
+  <a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US" target="_blank" rel="noreferrer noopener">LinkedIn</a>
+  </br></br>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsara-rioseco&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+</h4>
+<p align="center"> <a href="https://www.credly.com/badges/d1a7fd36-7a87-489b-a62a-cb9afebc37b7/public_url"><img align="center" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=120></a></p>
 <h2> About me 😊 </h2>
-<p>Hello!✋ My name is <strong>Sara</strong> and I'm 35 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
+<p>Hello!✋ My name is <strong>Sara</strong> and I'm 36 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
 <p>I used to be a translator 📖, but those days are over and gone. Now I'm doing something I'm more passionate about 🔥, and yes, you guessed it right: it's <strong>Web Developing!</strong> 💻</p>
 <p>It was in late 2022 when I started this path and, since then, I've been studying 👩‍🎓 and doing some very fun projects 🚀, using technologies such as:
   
