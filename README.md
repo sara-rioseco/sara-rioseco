@@ -1,5 +1,5 @@
 <h1 align="center">Sara Rioseco</h1>
-<h4 align="center"> Fullstack Developer | she/her | 
+<h4 align="center"> Software Developer | she/her | 
   <a href="https://www.linkedin.com/in/sara-rioseco/?locale=en_US" target="_blank" rel="noreferrer noopener">LinkedIn</a>
   </br></br>
 </h4>
