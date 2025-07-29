@@ -6,7 +6,7 @@
 </h4>
 <p align="center"> <a href="https://www.credly.com/badges/d1a7fd36-7a87-489b-a62a-cb9afebc37b7/public_url"><img align="center" src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width=120></a></p>
 <h2> About me 😊 </h2>
-<p>Hello!✋ My name is <strong>Sara</strong> and I'm 36 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
+<p>Hello!✋ My name is <strong>Sara</strong> and I'm 37 years-old. I'm currently living in <strong>Santiago, Chile </strong>🇨🇱</p>
 <p>I used to be a translator 📖, but those days are over and gone. Now I'm doing something I'm more passionate about 🔥, and yes, you guessed it right: it's <strong>Web Developing!</strong> 💻</p>
 <p>It was in late 2022 when I started this path and, since then, I've been studying 👩‍🎓 and doing some very fun projects 🚀, using technologies such as:
   
